@@ -54,6 +54,34 @@ nav ul {
     gap: 18px;
 }
 
+nav a {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+nav a:hover {
+    color: #F2A900;
+}
+
+.hero {
+    background-color: #002B49;
+    color: #FFFFFF;
+    padding: 56px 24px;
+    margin-bottom: 24px;
+}
+
+.hero h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 2rem;
+    margin-top: 0;
+    margin-bottom: 12px;
+}
+
+.hero p {
+    max-width: 650px;
+    margin-bottom: 24px;
+}
 
 h1, h2, h3 {
     font-family: 'Inter', sans-serif;
