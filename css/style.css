@@ -1,0 +1,26 @@
+/* Color Palette:
+   Primary Navy Blue: #002B49
+   Safety Gold: #F2A900
+   Neutral Light Gray: #F4F6F8
+   Dark Charcoal: #212529
+*/
+
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.6; 
+    color: #212529;
+    background-color: #F4F6F8;
+}
+
+h1, h2, h3{
+    
+}
