@@ -21,6 +21,40 @@ body {
     background-color: #F4F6F8;
 }
 
+header {
+    background-color: #002B49;
+    color: #FFFFFF;
+    padding: 16px 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.department {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+}
+
+.department img {
+    height: 42px;
+    width: auto;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 18px;
+}
+
+
 h1, h2, h3 {
     font-family: 'Inter', sans-serif;
     line-height: 1.25;
