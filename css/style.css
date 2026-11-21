@@ -83,13 +83,26 @@ nav a:hover {
     margin-bottom: 24px;
 }
 
+.cta-button {
+    display: inline-block;
+    background-color: #F2A900;
+    color: #212529;
+    font-familu: 'Inter', sans-serif;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 12px 22px;
+    border-radius: 4px;
+}
+
+.cta-button:hover {
+    background-color: #d99600;
+}
+
+
+
 h1, h2, h3 {
     font-family: 'Inter', sans-serif;
     line-height: 1.25;
     color: #002B49;
 }
 
-section {
-    padding: 48px 24px;
-    margin-bottom: 16px;
-}
