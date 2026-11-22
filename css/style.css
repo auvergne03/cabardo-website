@@ -138,6 +138,7 @@ footer {
     color: #FFFFFF;
     padding: 28px 24px;
     margin-top: 32px;
+    border-top: 3px solid #F2A900;
 }
 
 footer p {
